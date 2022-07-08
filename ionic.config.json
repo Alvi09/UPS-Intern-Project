@@ -1,0 +1,7 @@
+{
+  "name": "ups-testing",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
